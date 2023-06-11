@@ -71,7 +71,7 @@ body{
 .hero-parrafo{
     width: 90%;
     line-height: 1.5;
-    margin: 25px 0;
+    margin: 25px auto;
 }
 
 .hero-title{
